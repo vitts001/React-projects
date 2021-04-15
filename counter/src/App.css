@@ -1,0 +1,37 @@
+.App{
+    text-align: center;
+}
+
+button{
+    margin-left: 40px;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    border-style: none;
+   
+}
+button:hover{
+    box-shadow: 2px 2px 2px 2px black;
+}
+
+.maindiv{
+    margin-top: 70px;
+    width: 400px;
+    height: 300px;
+    border: 2px solid black;
+    margin-left: 200px;
+    box-shadow: 5px 0 5px 5px;
+    float: left;
+}
+
+#btn1{
+    background-color: red;   
+}
+#btn2{
+    background-color:green; 
+}
+
+#btn3{
+    background-color:rgb(172, 172, 14);   
+}
