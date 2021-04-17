@@ -1,0 +1,22 @@
+.data{
+    text-align: center;
+    color: white;
+    
+}
+
+.active_case{
+    background-color: rgb(221, 221, 58);
+    border-radius: 50px;
+    
+   
+}
+.recovered{
+    background-color: rgb(50, 180, 50);
+    border-radius: 50px;
+
+}
+.deaths{
+    background-color: rgb(255, 0, 0);
+    border-radius: 50px;
+
+}
